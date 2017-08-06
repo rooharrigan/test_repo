@@ -9,4 +9,4 @@ cat_seven = "again"
 cat_eight = "where are we now?"
 
 user_team_id = 6454444192
-whole_row = ';as;k'
+whole_row = 'dont let it get you'
